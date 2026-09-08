@@ -1,0 +1,17 @@
+{
+  "name": "qiujing-web-rebuild",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port 11087 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.4",
+    "vite": "^2.9.16"
+  }
+}
